@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "E9aazrGzwYlWDt++WNYD2/lJePEoI+nq7o2VMWnwYuJ2dmXycuZm1fUAsKB8DWFCN5S+SKQ3WYxJ5NmhiJyfOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tisep\\Downloads\\Autocervice\\Autocervice\\Autocervice\\Autocervice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tisep\\.nuget\\packages\\extended.wpf.toolkit\\4.6.1\\extended.wpf.toolkit.4.6.1.nupkg.sha512",
+    "C:\\Users\\tisep\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\tisep\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\tisep\\.nuget\\packages\\npgsql\\9.0.1\\npgsql.9.0.1.nupkg.sha512",
+    "C:\\Users\\tisep\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512",
+    "C:\\Users\\tisep\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\tisep\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\tisep\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

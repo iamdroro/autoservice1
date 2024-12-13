@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="CarsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ClientsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="OrdersPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PartsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PerformersPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ServicesPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UniversalEditPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="CarsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ClientsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="OrdersPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PartsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PerformersPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ServicesPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UniversalEditPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
